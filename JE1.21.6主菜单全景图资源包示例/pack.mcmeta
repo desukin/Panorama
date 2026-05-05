@@ -1,0 +1,10 @@
+﻿{
+  "pack": {
+    "pack_format": 45,
+    "supported_formats": {
+		"min_inclusive": 15,
+		"max_inclusive": 9999
+	},
+    "description": "§a全景图示例资源包1.21.5"
+  }
+}
