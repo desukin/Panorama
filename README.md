@@ -78,5 +78,8 @@ assets/minecraft/optifine/sky/world0/
 
 ---
 
-> 作者：[得酥君](https://space.bilibili.com/1454977233)  
+> 作者：[得酥君](https://space.bilibili.com/356564393)  
 > 视频教程：https://www.bilibili.com/video/BV1bbeGzDEe9
+
+---
+> 🤖 本项目由 AI 辅助生成
